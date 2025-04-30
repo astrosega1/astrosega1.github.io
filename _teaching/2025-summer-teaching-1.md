@@ -97,7 +97,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., July 10: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Mon., July 14: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
- |Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. July 21
+   |Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. July 21
 * Tue., July 15: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   |[Lab 4](../files/2048lab4.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
