@@ -13,9 +13,9 @@ title                    : "Astro & ϕ"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Dynamicist specialiced in warped disks and planetary rings / Philosophy of physics / Latin American Philosophy"
-url                      : https://astrosega.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://astrosega1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "astrosega/astrosega.github.io"
+repository               : "astrosega/astrosega1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
